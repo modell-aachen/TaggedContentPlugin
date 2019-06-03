@@ -1,0 +1,25 @@
+%META:TOPICPARENT{name="Plugins"}%
+---+ !TaggedContentPlugin
+%SHORTDESCRIPTION%
+
+%TOC%
+
+---++ Installation Instructions
+%$INSTALL_INSTRUCTIONS%
+
+---++ Configuration
+
+---++ Macros
+
+---++ Note
+
+---++ Info
+
+|  Author(s): | Modell Aachen GmbH |
+|  Copyright: | &copy; 2019, Modell Aachen GmbH |
+|  License: | [[http://www.gnu.org/licenses/gpl.html][GPL (Gnu General Public License)]] |
+|  Release: | %$RELEASE% |
+|  Version: | %$VERSION% |
+|  Dependencies: | %$DEPENDENCIES% |
+|  Home page: | [[http://www.modell-aachen.de][Modell Aachen]] |
+|  Support: | [[http://www.modell-aachen.de][Modell Aachen]] |
